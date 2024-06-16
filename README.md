@@ -3,9 +3,9 @@ How to use the Frisco Community Church lighting system at Legacy Christian Acade
 
 Kevin Gillespie, kgills@gmail.com
 
-<img align="right" width="200" height="200" src="pics/qr-code.png">
+<img width="200" height="200" src="pics/qr-code.png">
 
-### Contents
+## Contents
 * [Getting Started](#getting-started)
 * [Opening and Saving](#going-to-cues)
 * [Navigating](#navigating)
