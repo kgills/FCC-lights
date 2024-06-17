@@ -1,23 +1,36 @@
 # FCC-lights
-How to use the Frisco Community Church lighting system at Legacy Christian Academy.
-
-Kevin Gillespie, kgills@gmail.com
 
 <img width="200" height="200" src="pics/qr-code.png">
 
+[https://kgills.github.io/FCC-lights/](https://kgills.github.io/FCC-lights/)
+
+How to use the FCC lights at LCA.
+
+Kevin Gillespie, kgills@gmail.com
+
 ## Contents
-* [Getting Started](#getting-started)
+* [Power On](#power-on)
 * [Opening and Saving](#going-to-cues)
 * [Navigating](#navigating)
-* [Going to Cues](#opening-and-saving)
-* [Powering Down](#powering-down)
+* [Light Basics](#light-basics)
+* [Cues](#cues)
+* [Power Down](#power-down)
+* [Movers](#movers)
 
-## Getting Started
+## Power On
 
 ## Opening and Saving
 
 ## Navigating
 
-## Going to Cues
+## Light Basics
 
-## Powering Down
+## Cues
+
+## Power Down
+
+## Movers
+
+### Positioning
+
+### Filters
