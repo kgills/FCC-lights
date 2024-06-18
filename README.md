@@ -8,14 +8,17 @@ How to use the FCC lights at LCA.
 
 Kevin Gillespie, kgills@gmail.com
 
+This is not a comprehensive guide of the ETC ION Console. This is intended to cover the basics of getting started and setting up a simple light show. It will take some time and experimenting to become familiar. Refer to the documentation in [Resources](#resources) for additional information.
+
 ## Contents
 * [Power On](#power-on)
 * [Open Save Power Off](#open-save-power-off)
+* [Snapshots](#snapshots)
 * [Console Buttons](#console-buttons)
 * [Light Basics](#light-basics)
 * [Cues](#cues)
-* [Power Down](#power-down)
 * [Movers](#movers)
+* [Hints](#hints)
 * [Resources](#resources)
 
 ## Power On
@@ -25,7 +28,9 @@ Kevin Gillespie, kgills@gmail.com
 
  Touch the LED Touchscreen and navigate to the **House** tab. This tab can be used to control the house lights without the ION Console. 
 
-Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until it turns green. This will enable the LED stage lights. Touch the **LED Touchscreen** button until is says **Console**. This will switch control from the LED Touchsreen to the ION Console.
+Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until it turns green. This will enable the LED stage lights. Touch the **LED Touchscreen** button until it says **Console**. This will switch control from the LED Touchscreen to the ION Console. 
+
+If you're having trouble controlling the lights from the ION Console, make sure the button says **Console**. Either the LED Touchscreen or the ION Console can control the lights, not both. 
 
 <img height="175" src="pics/touch-screen.jpg">
 <img height="175" src="pics/console.jpg".
@@ -42,7 +47,13 @@ Use the browser on the left screen to open and save shows. **File > Open > Show 
 <img height="175" src="pics/open.png">
 </br>
 
-In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm 
+In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm. **DO NOT** use the power button on the ION Console to power off. 
+
+## Snapshots
+
+There are lots of menus, options, and tabs that can get overwhelming. Snapshots are record targets that store the current state of the ION external monitor configuration. These can then be recalled to instantly reset the displays to the state stored in the snapshot.
+
+When snapshots are recorded, you can view them in the snapshot list. To view the list, Select the Pop-up Snapshot Browser from the top-right menu icons. It looks like a camera.
 
 ## Console Buttons
 
@@ -52,8 +63,8 @@ Important buttons on the ION Console. Most of these buttons will setup a command
 * **Live**: Indicates that the changes being made will happen live.
 * **Blind**: Changes being made will not be made until you press the **Live** button.
 * **Displays**: Brings up the browser.
-* **Go To Cue**: Command to select the next cue **Go To Cue, \<Number\>, Enter**.
-* **Record & Cue**: Used to record different Cues. **Record, Cue, \<Number\>, Enter, Enter**.
+* **Go To Cue**: Used to recall Cues.
+* **Record & Cue**: Used to record Cues.
 * **Level Wheel**: Used to control levels such as light intensity.
 * **Clear**: Clear our selections or anything in the command line.
 * **Enter**: Executes the command.
@@ -62,14 +73,16 @@ Important buttons on the ION Console. Most of these buttons will setup a command
 </br>
 
 ## Light Basics
-Most of the lights can change colors and intensity. The house lights can only change intensity, they are always the same color. Use the **MS 2.1 "Full Plot"** tab to select the lights. You can select multiple lights or groups at the same time. The channel number will appear in the command line. 
+Most of the lights can change colors and intensity. The house lights can only change intensity, they are always the same color. Use the **MS 2.1 "Full Plot"** tab to select the lights. You can select multiple lights or groups at the same time by left clicking the lights. The channel numbers and groups will appear in the command line.
+
+Use the **Clear** button or **Backspace** on the keyboard to clear out the command line and start over. 
 
 Once you have the light(s) or group(s) selected, choose the desired color on the right. Use the **Level Wheel** to change the intensity.
 
 <img height="175" src="pics/magic.jpg">
 </br>
 
-House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab, they can be control individually using the **Channels** tab on the right screen. 
+House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This will set the intensity for all of the house lights. Control them individually using the **Channels** tab on the right screen. 
 
 * 500: Front, closest to the stage
 * 501: Middle
@@ -77,15 +90,41 @@ House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab, they 
 * 503: Sides
 * 504: Isle
 
+<img height="200" src="pics/500_channels.jpg">
+</br>
+
 ## Cues
 
-## Power Down
+Cues are used to store the state of the lights. This allows us to setup the lights for different parts of the show and easily switch between them. Cues do not have to be in order. Sometimes it's easier to add a cue at the end of the list instead of trying to move them around.
+
+This is a typical cue list that we will use for a service.
+
+1. Call to Worship
+2. Song 1
+3. Song 2
+4. Song 3
+5. Sermon
+6. Song 4
+7. Dismissal
+
+**Record, Cue, \<Number\>, Enter, Enter** to save the current light state as a cue.
+
+**Go To Cue, \<Number\>, Enter** To recall a cue.
 
 ## Movers
+To be published... The movers are complicated.
 
-### Positioning
+## Hints
 
-### Filters
+Setup the cues while the band rehearses. Try to match the color and intensity to the slides and tempo of the songs. Run through the show a few times between rehearsal and the start of service. This will help to work out any kinks in the setup.
+
+For songs I prefer to keep the isle lights(504) full and the side lights(503) at minimum brightness. This makes it bright enough to move around but dark enough to set the mood. You can turn off the side lights after the first two songs when people have mostly entered the theater.
+
+For the sermon I turn the side lights(503) to full. You can also experiment with the overhead house lights, the side lights kind of wash out the projector screen, but I think the overhead lights are too white. 
+
+Use the face lights at maximum intensity in a warm off-white color. This helps to highlight the band and Michael. The downstage row closest to the audience is typically all we need. Try to keep the empty parts of the stage dark, otherwise it can look empty.
+
+Adjust the height of the lights and curtains backstage. Sometimes the movers can be obstructed by the different curtains. You can also use the curtains to make the stage smaller. The screen in the very back works well for the movers. 
 
 ## Resources
 
