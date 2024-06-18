@@ -1,10 +1,10 @@
 # FCC-lights
 
+How to use the FCC lights at LCA.
+
 <img width="200" height="200" src="pics/qr-code.png">
 
 [https://kgills.github.io/FCC-lights/](https://kgills.github.io/FCC-lights/)
-
-How to use the FCC lights at LCA.
 
 Kevin Gillespie, kgills@gmail.com
 
@@ -33,8 +33,7 @@ Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until
 If you're having trouble controlling the lights from the ION Console, make sure the button says **Console**. Either the LED Touchscreen or the ION Console can control the lights, not both. 
 
 <img height="175" src="pics/touch-screen.jpg">
-<img height="175" src="pics/console.jpg".
-</br>
+<img height="175" src="pics/console.jpg">
 
 ## Open Save Power Off
 
@@ -45,7 +44,6 @@ Use the browser on the left screen to open and save shows. **File > Open > Show 
  **File > Save** to save the show at the end of the service. You can **File > Save As** to save to a new location.
 
 <img height="175" src="pics/open.png">
-</br>
 
 In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm. **DO NOT** use the power button on the ION Console to power off. 
 
@@ -70,7 +68,6 @@ Important buttons on the ION Console. Most of these buttons will setup a command
 * **Enter**: Executes the command.
 
 <img height="175" src="pics/buttons.png">
-</br>
 
 ## Light Basics
 Most of the lights can change colors and intensity. The house lights can only change intensity, they are always the same color. Use the **MS 2.1 "Full Plot"** tab to select the lights. You can select multiple lights or groups at the same time by left clicking the lights. The channel numbers and groups will appear in the command line.
@@ -80,7 +77,6 @@ Use the **Clear** button or **Backspace** on the keyboard to clear out the comma
 Once you have the light(s) or group(s) selected, choose the desired color on the right. Use the **Level Wheel** to change the intensity.
 
 <img height="175" src="pics/magic.jpg">
-</br>
 
 House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This will set the intensity for all of the house lights. Control them individually using the **Channels** tab on the right screen. 
 
@@ -91,21 +87,20 @@ House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This 
 * 504: Isle
 
 <img height="200" src="pics/500_channels.jpg">
-</br>
 
 ## Cues
 
 Cues are used to store the state of the lights. This allows us to setup the lights for different parts of the show and easily switch between them. Cues do not have to be in order. Sometimes it's easier to add a cue at the end of the list instead of trying to move them around.
 
-This is a typical cue list that we will use for a service.
+This is a typical cue list that we will use for a service. Maybe there was an extra song added before the Sermon, then we can go from Cue 3 > 7 > 4
 
 1. Call to Worship
 2. Song 1
 3. Song 2
-4. Song 3
-5. Sermon
-6. Song 4
-7. Dismissal
+4. Sermon
+5. Song 4
+6. Dismissal
+7. Song 3
 
 **Record, Cue, \<Number\>, Enter, Enter** to save the current light state as a cue.
 
@@ -124,10 +119,24 @@ For the sermon I turn the side lights(503) to full. You can also experiment with
 
 Use the face lights at maximum intensity in a warm off-white color. This helps to highlight the band and Michael. The downstage row closest to the audience is typically all we need. Try to keep the empty parts of the stage dark, otherwise it can look empty.
 
-Adjust the height of the lights and curtains backstage. Sometimes the movers can be obstructed by the different curtains. You can also use the curtains to make the stage smaller. The screen in the very back works well for the movers. 
+Adjust the height of the lights and curtains backstage. Sometimes the movers can be obstructed by the different curtains. You can also use the curtains to make the stage smaller. The screen in the very back works well for the movers.
+
+Use the **Blackout** button when showing videos.
 
 ## Resources
 
-https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx
+Use this to restore the FCC show to the ION Console. Download and extract to a USB drive. 
+
+[ESF3D file archive of the FCC show](archive/FCC%20Base%202024%202024-06-17%2015-26-02.zip) 
+
+Additional information and resources for the Mover lights. 
+
+[https://www.vari-lite.com/global/products/vl800-eventprofile](https://www.vari-lite.com/global/products/vl800-eventprofile)
+
+[Mover User Manual](https://vari-lite.s3.eu-west-1.amazonaws.com/manuals/vl800-eventprofile-users.pdf)
+
+Additional information and resources for the ION Console. 
+
+[https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx](https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx)
 
 [ETC ION Operations Manual](https://www.etcconnect.com/WorkArea/DownloadAsset.aspx?id=10737502837)
