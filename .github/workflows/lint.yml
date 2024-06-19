@@ -24,6 +24,8 @@ jobs:
       - ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
       - uses: articulate/actions-markdownlint@v1
         with:
           files: '*.md'
