@@ -2,7 +2,7 @@
 
 How to use the FCC lights at LCA.
 
-<img width="200" height="200" src="pics/qr-code.png">
+<img width="200" height="200" src="pics/qr-code.png" alt="pics/qr-code.png">
 
 [https://kgills.github.io/FCC-lights/](https://kgills.github.io/FCC-lights/)
 
@@ -26,7 +26,7 @@ This is not a comprehensive guide of the ETC ION Console. This is intended to co
 
  Turn on the ION Console with the power button in the top-middle of the console.
 
-<img height="200" src="pics/power.png">
+<img height="200" src="pics/power.png" alt="pics/power.png">
 
  Touch the LED Touchscreen and navigate to the **House** tab. This tab can be used to control the house lights without the ION Console.
 
@@ -34,8 +34,8 @@ Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until
 
 If you're having trouble controlling the lights from the ION Console, make sure the button says **Console**. Either the LED Touchscreen or the ION Console can control the lights, not both.
 
-<img height="175" src="pics/touch-screen.jpg">
-<img height="175" src="pics/console.jpg">
+<img height="175" src="pics/touch-screen.jpg" alt="pics/touch-screen.jpg">
+<img height="175" src="pics/console.jpg" alt="pics/console.jpg">
 
 ## Open Save Power Off
 
@@ -45,7 +45,7 @@ Use the browser on the left screen to open and save shows. **File > Open > Show 
 
  **File > Save** to save the show at the end of the service. You can **File > Save As** to save to a new location.
 
-<img height="175" src="pics/open.png">
+<img height="175" src="pics/open.png" alt="pics/open.png">
 
 In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm. **DO NOT** use the power button on the ION Console to power off.
 
@@ -69,7 +69,7 @@ Important buttons on the ION Console. Most of these buttons will setup a command
 * **Clear**: Clear our selections or anything in the command line.
 * **Enter**: Executes the command.
 
-<img height="175" src="pics/buttons.png">
+<img height="175" src="pics/buttons.png" alt="pics/buttons.png">
 
 ## Light Basics
 
@@ -79,7 +79,7 @@ Use the **Clear** button or **Backspace** on the keyboard to clear out the comma
 
 Once you have the light(s) or group(s) selected, choose the desired color on the right. Use the **Level Wheel** to change the intensity.
 
-<img height="175" src="pics/magic.jpg">
+<img height="175" src="pics/magic.jpg" alt="pics/magic.jpg">
 
 House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This will set the intensity for all of the house lights. Control them individually using the **Channels** tab on the right screen.
 
@@ -89,7 +89,7 @@ House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This 
 * 503: Sides
 * 504: Isle
 
-<img height="200" src="pics/500_channels.jpg">
+<img height="200" src="pics/500_channels.jpg" alt="pics/500_channels.jpg">
 
 ## Cues
 
