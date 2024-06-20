@@ -2,15 +2,16 @@
 
 How to use the FCC lights at LCA.
 
-<img width="200" height="200" src="pics/qr-code.png">
+<img width="200" height="200" src="pics/qr-code.png" alt="pics/qr-code.png">
 
 [https://kgills.github.io/FCC-lights/](https://kgills.github.io/FCC-lights/)
 
-Kevin Gillespie, kgills@gmail.com
+Kevin Gillespie, <kgills@gmail.com>
 
 This is not a comprehensive guide of the ETC ION Console. This is intended to cover the basics of getting started and setting up a simple light show. It will take some time and experimenting to become familiar. Refer to the documentation in [Resources](#resources) for additional information.
 
 ## Contents
+
 * [Power On](#power-on)
 * [Open Save Power Off](#open-save-power-off)
 * [Snapshots](#snapshots)
@@ -22,30 +23,31 @@ This is not a comprehensive guide of the ETC ION Console. This is intended to co
 * [Resources](#resources)
 
 ## Power On
- Turn on the ION Console with the power button in the top-middle of the console. 
 
-<img height="200" src="pics/power.png">
+ Turn on the ION Console with the power button in the top-middle of the console.
 
- Touch the LED Touchscreen and navigate to the **House** tab. This tab can be used to control the house lights without the ION Console. 
+<img height="200" src="pics/power.png" alt="pics/power.png">
 
-Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until it turns green. This will enable the LED stage lights. Touch the **LED Touchscreen** button until it says **Console**. This will switch control from the LED Touchscreen to the ION Console. 
+ Touch the LED Touchscreen and navigate to the **House** tab. This tab can be used to control the house lights without the ION Console.
 
-If you're having trouble controlling the lights from the ION Console, make sure the button says **Console**. Either the LED Touchscreen or the ION Console can control the lights, not both. 
+Navigate to the **Preset** tab on the LED Touchscreen. Touch **LED Power** until it turns green. This will enable the LED stage lights. Touch the **LED Touchscreen** button until it says **Console**. This will switch control from the LED Touchscreen to the ION Console.
 
-<img height="175" src="pics/touch-screen.jpg">
-<img height="175" src="pics/console.jpg">
+If you're having trouble controlling the lights from the ION Console, make sure the button says **Console**. Either the LED Touchscreen or the ION Console can control the lights, not both.
+
+<img height="175" src="pics/touch-screen.jpg" alt="pics/touch-screen.jpg">
+<img height="175" src="pics/console.jpg" alt="pics/console.jpg">
 
 ## Open Save Power Off
 
-Open a previously saved show and use this as a starting point for the next show. Since most of our services are very similar in structure, it's easiest to make small changes to previous shows. 
+Open a previously saved show and use this as a starting point for the next show. Since most of our services are very similar in structure, it's easiest to make small changes to previous shows.
 
-Use the browser on the left screen to open and save shows. **File > Open > Show File Archive**. If you're having trouble finding the browser, press the **Displays** button on the ION Console. Look for the shows labeled with **FCC**. Since other organizations use the same equipment, there will be other shows saved here. 
+Use the browser on the left screen to open and save shows. **File > Open > Show File Archive**. If you're having trouble finding the browser, press the **Displays** button on the ION Console. Look for the shows labeled with **FCC**. Since other organizations use the same equipment, there will be other shows saved here.
 
  **File > Save** to save the show at the end of the service. You can **File > Save As** to save to a new location.
 
-<img height="175" src="pics/open.png">
+<img height="175" src="pics/open.png" alt="pics/open.png">
 
-In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm. **DO NOT** use the power button on the ION Console to power off. 
+In the browser menu select **Power Off Device**. A dialogue box opens asking you to confirm. **DO NOT** use the power button on the ION Console to power off.
 
 ## Snapshots
 
@@ -67,18 +69,19 @@ Important buttons on the ION Console. Most of these buttons will setup a command
 * **Clear**: Clear our selections or anything in the command line.
 * **Enter**: Executes the command.
 
-<img height="175" src="pics/buttons.png">
+<img height="175" src="pics/buttons.png" alt="pics/buttons.png">
 
 ## Light Basics
+
 Most of the lights can change colors and intensity. The house lights can only change intensity, they are always the same color. Use the **MS 2.1 "Full Plot"** tab to select the lights. You can select multiple lights or groups at the same time by left clicking the lights. The channel numbers and groups will appear in the command line.
 
-Use the **Clear** button or **Backspace** on the keyboard to clear out the command line and start over. 
+Use the **Clear** button or **Backspace** on the keyboard to clear out the command line and start over.
 
 Once you have the light(s) or group(s) selected, choose the desired color on the right. Use the **Level Wheel** to change the intensity.
 
-<img height="175" src="pics/magic.jpg">
+<img height="175" src="pics/magic.jpg" alt="pics/magic.jpg">
 
-House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This will set the intensity for all of the house lights. Control them individually using the **Channels** tab on the right screen. 
+House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This will set the intensity for all of the house lights. Control them individually using the **Channels** tab on the right screen.
 
 * 500: Front, closest to the stage
 * 501: Middle
@@ -86,7 +89,7 @@ House light intensity can be controlled in the **MS 2.1 "Full Plot"** tab. This 
 * 503: Sides
 * 504: Isle
 
-<img height="200" src="pics/500_channels.jpg">
+<img height="200" src="pics/500_channels.jpg" alt="pics/500_channels.jpg">
 
 ## Cues
 
@@ -107,6 +110,7 @@ This is a typical cue list that we will use for a service. Maybe there was an ex
 **Go To Cue, \<Number\>, Enter** To recall a cue.
 
 ## Movers
+
 To be published... The movers are complicated.
 
 ## Hints
@@ -115,7 +119,7 @@ Setup the cues while the band rehearses. Try to match the color and intensity to
 
 For songs I prefer to keep the isle lights(504) full and the side lights(503) at minimum brightness. This makes it bright enough to move around but dark enough to set the mood. You can turn off the side lights after the first two songs when people have mostly entered the theater.
 
-For the sermon I turn the side lights(503) to full. You can also experiment with the overhead house lights, the side lights kind of wash out the projector screen, but I think the overhead lights are too white. 
+For the sermon I turn the side lights(503) to full. You can also experiment with the overhead house lights, the side lights kind of wash out the projector screen, but I think the overhead lights are too white.
 
 Use the face lights at maximum intensity in a warm off-white color. This helps to highlight the band and Michael. The downstage row closest to the audience is typically all we need. Try to keep the empty parts of the stage dark, otherwise it can look empty.
 
@@ -125,17 +129,17 @@ Use the **Blackout** button when showing videos.
 
 ## Resources
 
-Use this to restore the FCC show to the ION Console. Download and extract to a USB drive. 
+Use this to restore the FCC show to the ION Console. Download and extract to a USB drive.
 
-[ESF3D file archive of the FCC show](archive/FCC%20Base%202024%202024-06-17%2015-26-02.zip) 
+[ESF3D file archive of the FCC show](archive/FCC%20Base%202024%202024-06-17%2015-26-02.zip)
 
-Additional information and resources for the Mover lights. 
+Additional information and resources for the Mover lights.
 
 [https://www.vari-lite.com/global/products/vl800-eventprofile](https://www.vari-lite.com/global/products/vl800-eventprofile)
 
 [Mover User Manual](https://vari-lite.s3.eu-west-1.amazonaws.com/manuals/vl800-eventprofile-users.pdf)
 
-Additional information and resources for the ION Console. 
+Additional information and resources for the ION Console.
 
 [https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx](https://www.etcconnect.com/Products/Legacy/Console/Eos-Family/Ion/Features.aspx)
 
