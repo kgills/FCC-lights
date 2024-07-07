@@ -111,7 +111,12 @@ This is a typical cue list that we will use for a service. Maybe there was an ex
 
 ## Movers
 
-To be published... The movers are complicated.
+These lights can move and have different filters.
+
+### Positioning
+Use the X,Y,Z focus to position the lights. Focus one light at a time on the left or right of the stage. Focus the opposite light by mirroring the X focus while matching the Y and Z focus. You will have to manually tweak the seconnd light position. They are not perfectly aligned.
+
+**Channel 301, X Focus** and enter a number to move the light, or **Enter** will put a diamond at the end of the command, this will allow you to use the **Level Wheel** to adjust the position.
 
 ## Hints
 
