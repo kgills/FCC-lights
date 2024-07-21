@@ -19,6 +19,7 @@ This is not a comprehensive guide of the ETC ION Console. This is intended to co
 * [Light Basics](#light-basics)
 * [Cues](#cues)
 * [Movers](#movers)
+* [Effects](#effects)
 * [Hints](#hints)
 * [Resources](#resources)
 
@@ -111,7 +112,21 @@ This is a typical cue list that we will use for a service. Maybe there was an ex
 
 ## Movers
 
-To be published... The movers are complicated.
+The lights on channels 301-304 can move and have different filters. There are two down stage and two mid stage.
+
+### Positioning
+
+Use the X,Y,Z focus to position the lights. Focus one light at a time on the left or right of the stage. Focus the opposite light by mirroring the X focus ( x * -1) while matching the Y and Z focus. You will have to manually tweak the seconnd light position. They are not perfectly aligned.
+
+**Channel 301 X Focus** and enter a number to move the light, or **Enter** will put a diamond at the end of the command, this will allow you to use the **Level Wheel** to adjust the position.
+
+### Filters
+
+The movers have different filters that can be used to shape the light. Use options **Wheel 1** and **Wheel 2** to select the filter. Adjust the **Edge** paramter to focus the filters. Adjust the **Ind/Spd** paramers to change the rotation speed. The speed parameters take two digits. **Chan 301 Beam Fx Index/Speed 02 [Enter]**
+
+## Effects
+
+To be published.
 
 ## Hints
 
@@ -126,6 +141,8 @@ Use the face lights at maximum intensity in a warm off-white color. This helps t
 Adjust the height of the lights and curtains backstage. Sometimes the movers can be obstructed by the different curtains. You can also use the curtains to make the stage smaller. The screen in the very back works well for the movers.
 
 Use the **Blackout** button when showing videos.
+
+Move all of the slides on the left pannel down. These switches can be used to control the lights, they will overrirde the settings programmed on the screens.
 
 ## Resources
 
