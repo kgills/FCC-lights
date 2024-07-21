@@ -115,11 +115,13 @@ This is a typical cue list that we will use for a service. Maybe there was an ex
 The lights on channels 301-304 can move and have different filters. There are two down stage and two mid stage.
 
 ### Positioning
+
 Use the X,Y,Z focus to position the lights. Focus one light at a time on the left or right of the stage. Focus the opposite light by mirroring the X focus ( x * -1) while matching the Y and Z focus. You will have to manually tweak the seconnd light position. They are not perfectly aligned.
 
 **Channel 301 X Focus** and enter a number to move the light, or **Enter** will put a diamond at the end of the command, this will allow you to use the **Level Wheel** to adjust the position.
 
 ### Filters
+
 The movers have different filters that can be used to shape the light. Use options **Wheel 1** and **Wheel 2** to select the filter. Adjust the **Edge** paramter to focus the filters. Adjust the **Ind/Spd** paramers to change the rotation speed. The speed parameters take two digits. **Chan 301 Beam Fx Index/Speed 02 [Enter]**
 
 ## Effects
